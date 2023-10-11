@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388953516832",
+    "project_id": "cuisine-25200",
+    "storage_bucket": "cuisine-25200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388953516832:android:5719dbf11a6f36698c4545",
+        "android_client_info": {
+          "package_name": "com.example.kouizine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388953516832-tta13vhrsniqghg09a2j0p82ud44uucq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT3FdMZPpcg92HXDIwGcW8WwS_4RaQkos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388953516832-tta13vhrsniqghg09a2j0p82ud44uucq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
