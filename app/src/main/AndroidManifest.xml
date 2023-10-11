@@ -17,7 +17,7 @@
             android:exported="false">
             <meta-data
                 android:name="android.app.lib_name"
-                android:value="" />k
+                android:value="" />
         </activity>
         <activity
             android:name=".AdminConnected"
